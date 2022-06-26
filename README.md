@@ -46,4 +46,4 @@ You can connect it in two ways, i.e. wired and wireless.
 8. Select your region as well as country accordingly from the list.
 9. Select the driver's list by ticking on it and then click Next.
 10. Now finally confirm and click on yes.
-11. Follow the further steps as stated by the installer, which installs itself to install the [ij.start.cannon](https://ijijstarts.github.io/) printer drivers.
+11. Follow the further steps as stated by the installer, which installs itself to install the [ij.start.cannon](https://ijijstarts.github.io/) printer driver.
