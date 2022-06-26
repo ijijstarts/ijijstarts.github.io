@@ -1,6 +1,6 @@
 # IJ.START.CANON
 
-[![ij.start canon/setup](get.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+[![Get Started & Setup Printer](get.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
 
 Follow the below instructions given to perform the [ij.start.canon](https://ijijstarts.github.io/) setup of the particular printer models. Setup your ij start canon drivers with ease.
